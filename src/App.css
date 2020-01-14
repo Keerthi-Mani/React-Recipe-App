@@ -7,3 +7,34 @@
     #f3e7e9 100%
   );
 }
+
+header {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 50px;
+  padding: 10px;
+  background-color: pink;
+}
+
+.search-form {
+  background-color: pink;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.search-bar {
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+
+.search-button {
+  background-color: lightcoral;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  font-weight: bold;
+}
